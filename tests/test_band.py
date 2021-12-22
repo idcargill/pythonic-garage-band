@@ -2,7 +2,7 @@ import json
 import pytest
 import yaml
 
-from pythonic_garage_band.band import Band, Musician, Guitarist, Bassist, Drummer
+from pythonic_garage_band.Band import Band, Musician, Guitarist, Bassist, Drummer
 
 
 def test_band_name():
